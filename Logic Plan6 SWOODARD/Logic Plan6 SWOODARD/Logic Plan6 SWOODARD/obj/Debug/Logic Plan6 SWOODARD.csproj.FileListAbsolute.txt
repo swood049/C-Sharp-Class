@@ -1,0 +1,10 @@
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\bin\Debug\Logic Plan6 SWOODARD.exe.config
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\bin\Debug\Logic Plan6 SWOODARD.exe
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\bin\Debug\Logic Plan6 SWOODARD.pdb
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\obj\Debug\Logic Plan6 SWOODARD.csprojAssemblyReference.cache
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\obj\Debug\Logic_Plan6_SWOODARD.Form1.resources
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\obj\Debug\Logic_Plan6_SWOODARD.Properties.Resources.resources
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\obj\Debug\Logic Plan6 SWOODARD.csproj.GenerateResource.cache
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\obj\Debug\Logic Plan6 SWOODARD.csproj.CoreCompileInputs.cache
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\obj\Debug\Logic Plan6 SWOODARD.exe
+E:\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\Logic Plan6 SWOODARD\obj\Debug\Logic Plan6 SWOODARD.pdb

@@ -1,0 +1,10 @@
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\bin\Debug\DiscountApplicationSWOODARD.exe.config
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\bin\Debug\DiscountApplicationSWOODARD.exe
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\bin\Debug\DiscountApplicationSWOODARD.pdb
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\obj\Debug\DiscountApplicationSWOODARD.csprojAssemblyReference.cache
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\obj\Debug\DiscountApplicationSWOODARD.Form1.resources
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\obj\Debug\DiscountApplicationSWOODARD.Properties.Resources.resources
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\obj\Debug\DiscountApplicationSWOODARD.csproj.GenerateResource.cache
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\obj\Debug\DiscountApplicationSWOODARD.csproj.CoreCompileInputs.cache
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\obj\Debug\DiscountApplicationSWOODARD.exe
+E:\Logic Plan4 SWOODARD\DiscountApplicationSWOODARD\DiscountApplicationSWOODARD\obj\Debug\DiscountApplicationSWOODARD.pdb

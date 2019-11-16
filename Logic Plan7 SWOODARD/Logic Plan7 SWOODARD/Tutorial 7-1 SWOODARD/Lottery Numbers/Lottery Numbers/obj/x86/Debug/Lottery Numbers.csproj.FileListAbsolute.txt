@@ -1,0 +1,44 @@
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojResolveAssemblyReference.cache
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.Cache
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+C:\itcs1010 summer 2017\gaddis c# 2015\student_sample_programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojAssemblyReference.cache
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.cache
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.CoreCompileInputs.cache
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+E:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojAssemblyReference.cache
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.cache
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.CoreCompileInputs.cache
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+D:\Tutorial 7 Project SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojAssemblyReference.cache
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.cache
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.CoreCompileInputs.cache
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+D:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojAssemblyReference.cache
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.cache
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.CoreCompileInputs.cache
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+E:\Logic Plan7 SWOODARD\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
